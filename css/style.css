@@ -8342,7 +8342,8 @@ h1, h2, h3, h4, h5,
     display: inline-block; }
 
 .bg-light {
-  background: #f8f9fa !important; }
+  background: #f6f6f6 !important; }
+/*   background: #f8f9fa !important;  */
 
 .bg-secondary {
   background: #2c2f3a !important; }
